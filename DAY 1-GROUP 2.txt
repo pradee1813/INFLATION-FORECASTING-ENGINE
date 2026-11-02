@@ -1,0 +1,12 @@
+DAY 1
+
+Team 2
+Created a Team REPOSITORY on GitHub
+Problem Statement Undestand
+Group Discussion
+Collecting Datasets related to Our Project
+
+1.Pradeesha---API Connection on process...
+2.Hariharan---Created Layout On Figma and created website for sample layout
+3.Madesh---Created Layout On Figma and gathering related features.
+4.Muguesh---EDA Processing...
